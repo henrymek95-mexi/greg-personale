@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "pack_version": "2.8.4",
+  "official_release": {
+    "release_url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/tag/2.8.4",
+    "commit": "7cc3067",
+    "repository": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
+    "questbook_root": "config/betterquesting/DefaultQuests",
+    "quest_lines_path": "config/betterquesting/DefaultQuests/QuestLines",
+    "quest_definitions_path": "config/betterquesting/DefaultQuests/Quests",
+    "verified_on": "2026-09-10"
+  },
+  "matching_notes": [
+    {
+      "example": "Tier 1 - LV / Alloy Smelter",
+      "quest_id_high": 0,
+      "quest_id_low": 116,
+      "quest_line_position": { "x": 756, "y": 324, "size_x": 24, "size_y": 24 },
+      "task_type": "bq_standard:retrieval",
+      "required_item": { "id": "gregtech:gt.blockmachines", "damage": 201, "count": 1 },
+      "conclusion": "A completed matched node proves that the LV Alloy Smelter was detected by the quest system at completion time."
+    }
+  ]
+}

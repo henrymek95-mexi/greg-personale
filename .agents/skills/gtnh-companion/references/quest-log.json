@@ -1,0 +1,3868 @@
+{
+  "schema_version": 1,
+  "pack_version": "2.8.4",
+  "screenshot_color_legend": {
+    "green": "completed_claimed",
+    "blue_or_cyan": "completed_unclaimed",
+    "source": "player_report",
+    "reported_on": "2026-09-10"
+  },
+  "chapters": [
+    {
+      "id": "and-so-it-begins",
+      "name": "And So, It Begins",
+      "completed": 45,
+      "total": 45,
+      "status": "completed",
+      "evidence_file": "Screenshot 2026-09-10 114548.png"
+    },
+    {
+      "id": "tier-0-stone-age",
+      "name": "Tier 0 - Stone Age",
+      "completed": 74,
+      "total": 92,
+      "status": "active",
+      "evidence_file": "Screenshot 2026-09-10 114604.png"
+    },
+    {
+      "id": "tier-0-5-steam",
+      "name": "Tier 0.5 - Steam",
+      "completed": 76,
+      "total": 114,
+      "status": "active",
+      "evidence_file": "Screenshot 2026-09-10 114614.png"
+    },
+    {
+      "id": "tier-1-lv",
+      "name": "Tier 1 - LV",
+      "completed": 107,
+      "total": 155,
+      "status": "active",
+      "evidence_file": "Screenshot 2026-09-10 114624.png"
+    },
+    {
+      "id": "tier-2-mv",
+      "name": "Tier 2 - MV",
+      "completed": 80,
+      "total": 146,
+      "status": "active",
+      "evidence_file": "Screenshot 2026-09-10 114634.png"
+    },
+    {
+      "id": "tier-3-hv",
+      "name": "Tier 3 - HV",
+      "completed": 28,
+      "total": 115,
+      "status": "active",
+      "evidence_file": "Screenshot 2026-09-10 114721.png"
+    }
+  ],
+  "quests": [
+    {
+      "quest_id": "0:2295",
+      "chapter": "tier-3-hv",
+      "title": "Getting Your First Platinum",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "GettingYourFirst-AAAAAAAAAAAAAAAAAAAI9w==.json"
+    },
+    {
+      "quest_id": "0:1019",
+      "chapter": "tier-3-hv",
+      "title": "Small Coil",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "SmallCoil-AAAAAAAAAAAAAAAAAAAD-w==.json"
+    },
+    {
+      "quest_id": "0:1016",
+      "chapter": "tier-3-hv",
+      "title": "Integrated Processor",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "IntegratedProces-AAAAAAAAAAAAAAAAAAAD-A==.json"
+    },
+    {
+      "quest_id": "0:160",
+      "chapter": "tier-3-hv",
+      "title": "Tier 3 (HV)",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "Tier3HV-AAAAAAAAAAAAAAAAAAAAoA==.json"
+    },
+    {
+      "quest_id": "0:1018",
+      "chapter": "tier-3-hv",
+      "title": "Central Processing Unit",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "CentralProcessin-AAAAAAAAAAAAAAAAAAAD-g==.json"
+    },
+    {
+      "quest_id": "0:1221",
+      "chapter": "tier-3-hv",
+      "title": "Advanced Circuit Assembler",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExQ==.json"
+    },
+    {
+      "quest_id": "0:990",
+      "chapter": "tier-3-hv",
+      "title": "Energetic Alloy",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "EnergeticAlloy-AAAAAAAAAAAAAAAAAAAD3g==.json"
+    },
+    {
+      "quest_id": "0:1238",
+      "chapter": "tier-3-hv",
+      "title": "Phosphorus Doped Wafer",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "PhosphorusDopedW-AAAAAAAAAAAAAAAAAAAE1g==.json"
+    },
+    {
+      "quest_id": "0:1237",
+      "chapter": "tier-3-hv",
+      "title": "Phosphorus Doped Monocrystalline Silicon",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "PhosphorusDopedM-AAAAAAAAAAAAAAAAAAAE1Q==.json"
+    },
+    {
+      "quest_id": "0:146",
+      "chapter": "tier-3-hv",
+      "title": "Torture Device",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "TortureDevice-AAAAAAAAAAAAAAAAAAAAkg==.json"
+    },
+    {
+      "quest_id": "0:1239",
+      "chapter": "tier-3-hv",
+      "title": "NOR and NAND Chips",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "NORandNANDChips-AAAAAAAAAAAAAAAAAAAE1w==.json"
+    },
+    {
+      "quest_id": "0:1739",
+      "chapter": "tier-3-hv",
+      "title": "Farming a Little Easier",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "FarmingaLittleEa-AAAAAAAAAAAAAAAAAAAGyw==.json"
+    },
+    {
+      "quest_id": "0:163",
+      "chapter": "tier-3-hv",
+      "title": "I See Everything",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "ISeeEverything-AAAAAAAAAAAAAAAAAAAAow==.json"
+    },
+    {
+      "quest_id": "-6524472933804260988:-6650556070435655322",
+      "chapter": "tier-3-hv",
+      "title": "Keeping your energy hatch from overheating",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "Keepingyourenerg-pXRqb1HyQYSjtHp9dt1xZg==.json"
+    },
+    {
+      "quest_id": "0:1231",
+      "chapter": "tier-3-hv",
+      "title": "You're Gonna Hate This 1-4 in HV",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAEzw==.json"
+    },
+    {
+      "quest_id": "-4560413335703760908:-8162614124778304378",
+      "chapter": "tier-3-hv",
+      "title": "NaK",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "NaK-wLYoO7hsT_SOuJGzbgDMhg==.json"
+    },
+    {
+      "quest_id": "0:770",
+      "chapter": "tier-3-hv",
+      "title": "Avengers, Assemble! 3",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "AvengersAssemble-AAAAAAAAAAAAAAAAAAADAg==.json"
+    },
+    {
+      "quest_id": "0:1903",
+      "chapter": "tier-3-hv",
+      "title": "HV Energy Hatch",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "HVEnergyHatch-AAAAAAAAAAAAAAAAAAAHbw==.json"
+    },
+    {
+      "quest_id": "0:1233",
+      "chapter": "tier-3-hv",
+      "title": "Ender Eyes",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "EnderEyes-AAAAAAAAAAAAAAAAAAAE0Q==.json"
+    },
+    {
+      "quest_id": "0:943",
+      "chapter": "tier-3-hv",
+      "title": "Performing Chemical Experiments at HV Level",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "PerformingChemic-AAAAAAAAAAAAAAAAAAADrw==.json"
+    },
+    {
+      "quest_id": "0:1017",
+      "chapter": "tier-3-hv",
+      "title": "Processor Assembly",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "ProcessorAssembl-AAAAAAAAAAAAAAAAAAAD-Q==.json"
+    },
+    {
+      "quest_id": "0:1014",
+      "chapter": "tier-3-hv",
+      "title": "Workstations, Your First EV Circuit",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "WorkstationsYour-AAAAAAAAAAAAAAAAAAAD9g==.json"
+    },
+    {
+      "quest_id": "0:1236",
+      "chapter": "tier-3-hv",
+      "title": "HV Cutting Machine",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "HVCuttingMachine-AAAAAAAAAAAAAAAAAAAE1A==.json"
+    },
+    {
+      "quest_id": "0:1222",
+      "chapter": "tier-3-hv",
+      "title": "Advanced Circuit Assembler II",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExg==.json"
+    },
+    {
+      "quest_id": "-1759268051879246627:-8171783490200761150",
+      "chapter": "tier-3-hv",
+      "title": "Fluid Heater",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "FluidHeater-55XTBx8LRN2Ol_42LS6Mwg==.json"
+    },
+    {
+      "quest_id": "0:1232",
+      "chapter": "tier-3-hv",
+      "title": "You're Gonna Hate This 5 and 6 in HV",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAE0A==.json"
+    },
+    {
+      "quest_id": "0:1225",
+      "chapter": "tier-3-hv",
+      "title": "Mainframes, Your First IV Circuit",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "MainframesYourFi-AAAAAAAAAAAAAAAAAAAEyQ==.json"
+    },
+    {
+      "quest_id": "0:772",
+      "chapter": "tier-3-hv",
+      "title": "Precision is Required",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114721.png",
+      "official_file": "PrecisionisRequi-AAAAAAAAAAAAAAAAAAADBA==.json"
+    },
+    {
+      "quest_id": "0:1834",
+      "chapter": "and-so-it-begins",
+      "title": "Mushroom Biomes? Why Are There So Many?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "MushroomBiomesWh-AAAAAAAAAAAAAAAAAAAHKg==.json"
+    },
+    {
+      "quest_id": "0:2406",
+      "chapter": "and-so-it-begins",
+      "title": "Numbers in the Corner?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "NumbersintheCorn-AAAAAAAAAAAAAAAAAAAJZg==.json"
+    },
+    {
+      "quest_id": "0:2145",
+      "chapter": "and-so-it-begins",
+      "title": "E_TOO_MANY_KEYS",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "ETOOMANYKEYS-AAAAAAAAAAAAAAAAAAAIYQ==.json"
+    },
+    {
+      "quest_id": "0:1495",
+      "chapter": "and-so-it-begins",
+      "title": "All Alone in the Night",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "AllAloneintheNig-AAAAAAAAAAAAAAAAAAAF1w==.json"
+    },
+    {
+      "quest_id": "0:1849",
+      "chapter": "and-so-it-begins",
+      "title": "Tell Me When We Reach 20",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "TellMeWhenWeReac-AAAAAAAAAAAAAAAAAAAHOQ==.json"
+    },
+    {
+      "quest_id": "0:865",
+      "chapter": "and-so-it-begins",
+      "title": "Monster Trap",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "MonsterTrap-AAAAAAAAAAAAAAAAAAADYQ==.json"
+    },
+    {
+      "quest_id": "0:0",
+      "chapter": "and-so-it-begins",
+      "title": "Your First Night",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "YourFirstNight-AAAAAAAAAAAAAAAAAAAAAA==.json"
+    },
+    {
+      "quest_id": "0:1204",
+      "chapter": "and-so-it-begins",
+      "title": "Crafting Time",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CraftingTime-AAAAAAAAAAAAAAAAAAAEtA==.json"
+    },
+    {
+      "quest_id": "0:5",
+      "chapter": "and-so-it-begins",
+      "title": "Tools",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "Tools-AAAAAAAAAAAAAAAAAAAABQ==.json"
+    },
+    {
+      "quest_id": "0:3",
+      "chapter": "and-so-it-begins",
+      "title": "Storage For Days",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "StorageForDays-AAAAAAAAAAAAAAAAAAAAAw==.json"
+    },
+    {
+      "quest_id": "0:7",
+      "chapter": "and-so-it-begins",
+      "title": "...What You Sow",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "WhatYouSow-AAAAAAAAAAAAAAAAAAAABw==.json"
+    },
+    {
+      "quest_id": "6030998045467231653:-5633785243568862283",
+      "chapter": "and-so-it-begins",
+      "title": "Permanent Offhand!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "PermanentOffhand-U7JoxM0mRaWx0MYriD2LtQ==.json"
+    },
+    {
+      "quest_id": "0:2",
+      "chapter": "and-so-it-begins",
+      "title": "Sticks 'n Stones",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "SticksnStones-AAAAAAAAAAAAAAAAAAAAAg==.json"
+    },
+    {
+      "quest_id": "0:1",
+      "chapter": "and-so-it-begins",
+      "title": "Where's the Flint?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "WherestheFlint-AAAAAAAAAAAAAAAAAAAAAQ==.json"
+    },
+    {
+      "quest_id": "0:4",
+      "chapter": "and-so-it-begins",
+      "title": "Main Quests and Secondary Quests",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "MainQuestsandSec-AAAAAAAAAAAAAAAAAAAABA==.json"
+    },
+    {
+      "quest_id": "0:6",
+      "chapter": "and-so-it-begins",
+      "title": "You Reap...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "YouReap-AAAAAAAAAAAAAAAAAAAABg==.json"
+    },
+    {
+      "quest_id": "0:440",
+      "chapter": "and-so-it-begins",
+      "title": "Oak Trees Are Not Apple Trees",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "OakTreesAreNotAp-AAAAAAAAAAAAAAAAAAABuA==.json"
+    },
+    {
+      "quest_id": "0:1501",
+      "chapter": "and-so-it-begins",
+      "title": "Backup Your Stuff...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "BackupYourStuff-AAAAAAAAAAAAAAAAAAAF3Q==.json"
+    },
+    {
+      "quest_id": "0:1500",
+      "chapter": "and-so-it-begins",
+      "title": "Better Questing?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "BetterQuesting-AAAAAAAAAAAAAAAAAAAF3A==.json"
+    },
+    {
+      "quest_id": "0:2874",
+      "chapter": "and-so-it-begins",
+      "title": "Loading the Chunks",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "LoadingtheChunks-AAAAAAAAAAAAAAAAAAALOg==.json"
+    },
+    {
+      "quest_id": "0:450",
+      "chapter": "and-so-it-begins",
+      "title": "Your First 'Long Range' Weapon",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "YourFirstLongRan-AAAAAAAAAAAAAAAAAAABwg==.json"
+    },
+    {
+      "quest_id": "0:469",
+      "chapter": "and-so-it-begins",
+      "title": "Collecting Some Berries",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CollectingSomeBe-AAAAAAAAAAAAAAAAAAAB1Q==.json"
+    },
+    {
+      "quest_id": "0:11",
+      "chapter": "and-so-it-begins",
+      "title": "Monster Hunter",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "MonsterHunter-AAAAAAAAAAAAAAAAAAAACw==.json"
+    },
+    {
+      "quest_id": "0:8",
+      "chapter": "and-so-it-begins",
+      "title": "Get That Stone",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "GetThatStone-AAAAAAAAAAAAAAAAAAAACA==.json"
+    },
+    {
+      "quest_id": "0:444",
+      "chapter": "and-so-it-begins",
+      "title": "Soft Mallet Adventure",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "SoftMalletAdvent-AAAAAAAAAAAAAAAAAAABvA==.json"
+    },
+    {
+      "quest_id": "0:448",
+      "chapter": "and-so-it-begins",
+      "title": "Shield Update",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "ShieldUpdate-AAAAAAAAAAAAAAAAAAABwA==.json"
+    },
+    {
+      "quest_id": "0:446",
+      "chapter": "and-so-it-begins",
+      "title": "Shields UP",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "ShieldsUP-AAAAAAAAAAAAAAAAAAABvg==.json"
+    },
+    {
+      "quest_id": "0:1844",
+      "chapter": "and-so-it-begins",
+      "title": "Porkchops With Attitude",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "PorkchopsWithAtt-AAAAAAAAAAAAAAAAAAAHNA==.json"
+    },
+    {
+      "quest_id": "0:1843",
+      "chapter": "and-so-it-begins",
+      "title": "Caught in the Web",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CaughtintheWeb-AAAAAAAAAAAAAAAAAAAHMw==.json"
+    },
+    {
+      "quest_id": "0:1842",
+      "chapter": "and-so-it-begins",
+      "title": "Creeping Dread",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CreepingDread-AAAAAAAAAAAAAAAAAAAHMg==.json"
+    },
+    {
+      "quest_id": "0:1841",
+      "chapter": "and-so-it-begins",
+      "title": "Moron's Manual for Massacring Monsters",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "MoronsManualforM-AAAAAAAAAAAAAAAAAAAHMQ==.json"
+    },
+    {
+      "quest_id": "0:9",
+      "chapter": "and-so-it-begins",
+      "title": "Fire, Fire, Grandpa!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "FireFireGrandpa-AAAAAAAAAAAAAAAAAAAACQ==.json"
+    },
+    {
+      "quest_id": "0:442",
+      "chapter": "and-so-it-begins",
+      "title": "\"Baked\" Potatoes",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "BakedPotatoes-AAAAAAAAAAAAAAAAAAABug==.json"
+    },
+    {
+      "quest_id": "0:10",
+      "chapter": "and-so-it-begins",
+      "title": "Rest in Pieces",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "RestinPieces-AAAAAAAAAAAAAAAAAAAACg==.json"
+    },
+    {
+      "quest_id": "0:12",
+      "chapter": "and-so-it-begins",
+      "title": "Fluffy and Red",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "FluffyandRed-AAAAAAAAAAAAAAAAAAAADA==.json"
+    },
+    {
+      "quest_id": "0:1475",
+      "chapter": "and-so-it-begins",
+      "title": "Cows Are Supposed to Moo!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CowsAreSupposedt-AAAAAAAAAAAAAAAAAAAFww==.json"
+    },
+    {
+      "quest_id": "0:396",
+      "chapter": "and-so-it-begins",
+      "title": "Goals",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "Goals-AAAAAAAAAAAAAAAAAAABjA==.json"
+    },
+    {
+      "quest_id": "0:397",
+      "chapter": "and-so-it-begins",
+      "title": "Even more challenges needed?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "Evenmorechalleng-AAAAAAAAAAAAAAAAAAABjQ==.json"
+    },
+    {
+      "quest_id": "0:13",
+      "chapter": "and-so-it-begins",
+      "title": "SO...TIRED...MUST...SLEEP...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "SOTIREDMUSTSLEEP-AAAAAAAAAAAAAAAAAAAADQ==.json"
+    },
+    {
+      "quest_id": "0:14",
+      "chapter": "and-so-it-begins",
+      "title": "What's That...?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "WhatsThat-AAAAAAAAAAAAAAAAAAAADg==.json"
+    },
+    {
+      "quest_id": "0:946",
+      "chapter": "and-so-it-begins",
+      "title": "Bamboo Fence",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "BambooFence-AAAAAAAAAAAAAAAAAAADsg==.json"
+    },
+    {
+      "quest_id": "0:484",
+      "chapter": "and-so-it-begins",
+      "title": "Can You Hear the Carrots Grow?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "CanYouHeartheCar-AAAAAAAAAAAAAAAAAAAB5A==.json"
+    },
+    {
+      "quest_id": "0:470",
+      "chapter": "and-so-it-begins",
+      "title": "Berry Medley",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "BerryMedley-AAAAAAAAAAAAAAAAAAAB1g==.json"
+    },
+    {
+      "quest_id": "0:1856",
+      "chapter": "and-so-it-begins",
+      "title": "Staying Cool in the Heat",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "StayingCoolinthe-AAAAAAAAAAAAAAAAAAAHQA==.json"
+    },
+    {
+      "quest_id": "0:471",
+      "chapter": "and-so-it-begins",
+      "title": "Food Variants",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114548.png",
+      "official_file": "FoodVariants-AAAAAAAAAAAAAAAAAAAB1w==.json"
+    },
+    {
+      "quest_id": "0:487",
+      "chapter": "tier-0-stone-age",
+      "title": "Need More Space?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NeedMoreSpace-AAAAAAAAAAAAAAAAAAAB5w==.json"
+    },
+    {
+      "quest_id": "-8762838053115180989:-5617553811869142035",
+      "chapter": "tier-0-stone-age",
+      "title": "NEI Next Level Recipe Search",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NEINextLevelReci-hmQlN9vLSEOyCnCSOOXz7Q==.json"
+    },
+    {
+      "quest_id": "-7990133041073338491:-8810216742118145435",
+      "chapter": "tier-0-stone-age",
+      "title": "NEI Next Level Search",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NEINextLevelSear-kR1YVSq2R4WFu9KNM9lCZQ==.json"
+    },
+    {
+      "quest_id": "-6458462290926483945:-5030660532125308103",
+      "chapter": "tier-0-stone-age",
+      "title": "NEI is EVEN MORE POWERFUL NOW?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NEIisEVENMOREPOW-pl7uw8oSRhe6L4DmTRfrOQ==.json"
+    },
+    {
+      "quest_id": "0:1831",
+      "chapter": "tier-0-stone-age",
+      "title": "Circle Shapes Give Me Comfort",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CircleShapesGive-AAAAAAAAAAAAAAAAAAAHJw==.json"
+    },
+    {
+      "quest_id": "0:486",
+      "chapter": "tier-0-stone-age",
+      "title": "Tanned Leather",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "TannedLeather-AAAAAAAAAAAAAAAAAAAB5g==.json"
+    },
+    {
+      "quest_id": "0:1505",
+      "chapter": "tier-0-stone-age",
+      "title": "Not Enough Items - Now with Bookmarks and Recent History!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NotEnoughItemsNo-AAAAAAAAAAAAAAAAAAAF4Q==.json"
+    },
+    {
+      "quest_id": "0:1506",
+      "chapter": "tier-0-stone-age",
+      "title": "NEI is More Powerful Than You Imagine",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NEIisMorePowerfu-AAAAAAAAAAAAAAAAAAAF4g==.json"
+    },
+    {
+      "quest_id": "0:2737",
+      "chapter": "tier-0-stone-age",
+      "title": "More Food, More Hearts",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MoreFoodMoreHear-AAAAAAAAAAAAAAAAAAAKsQ==.json"
+    },
+    {
+      "quest_id": "0:20",
+      "chapter": "tier-0-stone-age",
+      "title": "Gravel: The Gathering",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "GravelTheGatheri-AAAAAAAAAAAAAAAAAAAAFA==.json"
+    },
+    {
+      "quest_id": "0:40",
+      "chapter": "tier-0-stone-age",
+      "title": "You Shall Proceed",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YouShallProceed-AAAAAAAAAAAAAAAAAAAAKA==.json"
+    },
+    {
+      "quest_id": "0:15",
+      "chapter": "tier-0-stone-age",
+      "title": "Ready, Set, Go!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ReadySetGo-AAAAAAAAAAAAAAAAAAAADw==.json"
+    },
+    {
+      "quest_id": "0:36",
+      "chapter": "tier-0-stone-age",
+      "title": "Important Tools",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ImportantTools-AAAAAAAAAAAAAAAAAAAAJA==.json"
+    },
+    {
+      "quest_id": "0:1146",
+      "chapter": "tier-0-stone-age",
+      "title": "GT6-Styled Pipes",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "GT6StyledPipes-AAAAAAAAAAAAAAAAAAAEeg==.json"
+    },
+    {
+      "quest_id": "0:41",
+      "chapter": "tier-0-stone-age",
+      "title": "Don't Burn Your Fingers!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "DontBurnYourFing-AAAAAAAAAAAAAAAAAAAAKQ==.json"
+    },
+    {
+      "quest_id": "0:18",
+      "chapter": "tier-0-stone-age",
+      "title": "Basic Processing",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "BasicProcessing-AAAAAAAAAAAAAAAAAAAAEg==.json"
+    },
+    {
+      "quest_id": "0:17",
+      "chapter": "tier-0-stone-age",
+      "title": "Sand: The Gathering",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "SandTheGathering-AAAAAAAAAAAAAAAAAAAAEQ==.json"
+    },
+    {
+      "quest_id": "0:483",
+      "chapter": "tier-0-stone-age",
+      "title": "Gardener",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Gardener-AAAAAAAAAAAAAAAAAAAB4w==.json"
+    },
+    {
+      "quest_id": "0:1738",
+      "chapter": "tier-0-stone-age",
+      "title": "When All You Have is a Hammer...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "WhenAllYouHaveis-AAAAAAAAAAAAAAAAAAAGyg==.json"
+    },
+    {
+      "quest_id": "0:1508",
+      "chapter": "tier-0-stone-age",
+      "title": "A Better Crafting Table",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ABetterCraftingT-AAAAAAAAAAAAAAAAAAAF5A==.json"
+    },
+    {
+      "quest_id": "0:19",
+      "chapter": "tier-0-stone-age",
+      "title": "Macerator v0.1 Alpha",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Maceratorv01Alph-AAAAAAAAAAAAAAAAAAAAEw==.json"
+    },
+    {
+      "quest_id": "0:21",
+      "chapter": "tier-0-stone-age",
+      "title": "Clay: The Gathering",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ClayTheGathering-AAAAAAAAAAAAAAAAAAAAFQ==.json"
+    },
+    {
+      "quest_id": "0:473",
+      "chapter": "tier-0-stone-age",
+      "title": "Making a Better Sword",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MakingaBetterSwo-AAAAAAAAAAAAAAAAAAAB2Q==.json"
+    },
+    {
+      "quest_id": "4673371915106402541:-6848797731239430532",
+      "chapter": "tier-0-stone-age",
+      "title": "Compact Storage",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CompactStorage-QNsm_wc0QO2g9C6_-vj2fA==.json"
+    },
+    {
+      "quest_id": "0:35",
+      "chapter": "tier-0-stone-age",
+      "title": "Making Bronze",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MakingBronze-AAAAAAAAAAAAAAAAAAAAIw==.json"
+    },
+    {
+      "quest_id": "0:43",
+      "chapter": "tier-0-stone-age",
+      "title": "Cotton, Cotton and More Cotton",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CottonCottonandM-AAAAAAAAAAAAAAAAAAAAKw==.json"
+    },
+    {
+      "quest_id": "0:22",
+      "chapter": "tier-0-stone-age",
+      "title": "Finite Water!?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "FiniteWater-AAAAAAAAAAAAAAAAAAAAFg==.json"
+    },
+    {
+      "quest_id": "0:23",
+      "chapter": "tier-0-stone-age",
+      "title": "Something to Carry Liquids",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "SomethingtoCarry-AAAAAAAAAAAAAAAAAAAAFw==.json"
+    },
+    {
+      "quest_id": "0:1864",
+      "chapter": "tier-0-stone-age",
+      "title": "No Self-Healing Tools Here...Yet",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "NoSelfHealingToo-AAAAAAAAAAAAAAAAAAAHSA==.json"
+    },
+    {
+      "quest_id": "0:38",
+      "chapter": "tier-0-stone-age",
+      "title": "Making Better Tools",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MakingBetterTool-AAAAAAAAAAAAAAAAAAAAJg==.json"
+    },
+    {
+      "quest_id": "0:1085",
+      "chapter": "tier-0-stone-age",
+      "title": "More Compact Storage",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MoreCompactStora-AAAAAAAAAAAAAAAAAAAEPQ==.json"
+    },
+    {
+      "quest_id": "0:32",
+      "chapter": "tier-0-stone-age",
+      "title": "Book Parts",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "BookParts-AAAAAAAAAAAAAAAAAAAAIA==.json"
+    },
+    {
+      "quest_id": "0:1095",
+      "chapter": "tier-0-stone-age",
+      "title": "Even More Compact Storage",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "EvenMoreCompactS-AAAAAAAAAAAAAAAAAAAERw==.json"
+    },
+    {
+      "quest_id": "0:1504",
+      "chapter": "tier-0-stone-age",
+      "title": "Divine Rod of the Gods?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "DivineRodoftheGo-AAAAAAAAAAAAAAAAAAAF4A==.json"
+    },
+    {
+      "quest_id": "-1997546526317785722:-4916213553338882423",
+      "chapter": "tier-0-stone-age",
+      "title": "A Better Furnace!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ABetterFurnace-5EdKBIyDTYa7xhnSCUZmiQ==.json"
+    },
+    {
+      "quest_id": "0:30",
+      "chapter": "tier-0-stone-age",
+      "title": "Copper",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Copper-AAAAAAAAAAAAAAAAAAAAHg==.json"
+    },
+    {
+      "quest_id": "0:31",
+      "chapter": "tier-0-stone-age",
+      "title": "Tin",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Tin-AAAAAAAAAAAAAAAAAAAAHw==.json"
+    },
+    {
+      "quest_id": "0:42",
+      "chapter": "tier-0-stone-age",
+      "title": "Cow Tipper",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CowTipper-AAAAAAAAAAAAAAAAAAAAKg==.json"
+    },
+    {
+      "quest_id": "0:33",
+      "chapter": "tier-0-stone-age",
+      "title": "Tinker-Time",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "TinkerTime-AAAAAAAAAAAAAAAAAAAAIQ==.json"
+    },
+    {
+      "quest_id": "0:24",
+      "chapter": "tier-0-stone-age",
+      "title": "Getting (Char)coal",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "GettingCharcoal-AAAAAAAAAAAAAAAAAAAAGA==.json"
+    },
+    {
+      "quest_id": "0:535",
+      "chapter": "tier-0-stone-age",
+      "title": "Redstone, Early Game Processing",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "RedstoneEarlyGam-AAAAAAAAAAAAAAAAAAACFw==.json"
+    },
+    {
+      "quest_id": "0:1129",
+      "chapter": "tier-0-stone-age",
+      "title": "Redstone? Haste!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "RedstoneHaste-AAAAAAAAAAAAAAAAAAAEaQ==.json"
+    },
+    {
+      "quest_id": "0:1866",
+      "chapter": "tier-0-stone-age",
+      "title": "Options For Finding Zinc",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "OptionsForFindin-AAAAAAAAAAAAAAAAAAAHSg==.json"
+    },
+    {
+      "quest_id": "0:26",
+      "chapter": "tier-0-stone-age",
+      "title": "Forming Press v0.1",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "FormingPressv01-AAAAAAAAAAAAAAAAAAAAGg==.json"
+    },
+    {
+      "quest_id": "0:1546",
+      "chapter": "tier-0-stone-age",
+      "title": "Rare Ores",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "RareOres-AAAAAAAAAAAAAAAAAAAGCg==.json"
+    },
+    {
+      "quest_id": "0:481",
+      "chapter": "tier-0-stone-age",
+      "title": "Creosote",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Creosote-AAAAAAAAAAAAAAAAAAAB4Q==.json"
+    },
+    {
+      "quest_id": "0:494",
+      "chapter": "tier-0-stone-age",
+      "title": "Redstone",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Redstone-AAAAAAAAAAAAAAAAAAAB7g==.json"
+    },
+    {
+      "quest_id": "-8650347315666466864:-9128088765873917748",
+      "chapter": "tier-0-stone-age",
+      "title": "Your First Flint Sword",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YourFirstFlintSw-h_PK8qnyR9CBUoOhT9nwzA==.json"
+    },
+    {
+      "quest_id": "0:864",
+      "chapter": "tier-0-stone-age",
+      "title": "Your First Flint Throwing Knife",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YourFirstFlintTh-AAAAAAAAAAAAAAAAAAADYA==.json"
+    },
+    {
+      "quest_id": "0:37",
+      "chapter": "tier-0-stone-age",
+      "title": "Getting Iron",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "GettingIron-AAAAAAAAAAAAAAAAAAAAJQ==.json"
+    },
+    {
+      "quest_id": "0:474",
+      "chapter": "tier-0-stone-age",
+      "title": "Upgrade 2.0",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Upgrade20-AAAAAAAAAAAAAAAAAAAB2g==.json"
+    },
+    {
+      "quest_id": "0:472",
+      "chapter": "tier-0-stone-age",
+      "title": "Your First Tool",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YourFirstTool-AAAAAAAAAAAAAAAAAAAB2A==.json"
+    },
+    {
+      "quest_id": "0:1790",
+      "chapter": "tier-0-stone-age",
+      "title": "Wooden Door",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "WoodenDoor-AAAAAAAAAAAAAAAAAAAG_g==.json"
+    },
+    {
+      "quest_id": "0:34",
+      "chapter": "tier-0-stone-age",
+      "title": "Zinc Gravel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "ZincGravel-AAAAAAAAAAAAAAAAAAAAIg==.json"
+    },
+    {
+      "quest_id": "0:1497",
+      "chapter": "tier-0-stone-age",
+      "title": "Digging Deeper",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "DiggingDeeper-AAAAAAAAAAAAAAAAAAAF2Q==.json"
+    },
+    {
+      "quest_id": "0:1496",
+      "chapter": "tier-0-stone-age",
+      "title": "How the Heck Do I Find Ores?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "HowtheHeckDoIFin-AAAAAAAAAAAAAAAAAAAF2A==.json"
+    },
+    {
+      "quest_id": "7836976352036995675:-7957069611279940583",
+      "chapter": "tier-0-stone-age",
+      "title": "The power of prospecting!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Thepowerofprospe-bMKIeFhNQluRks9YzpqEGQ==.json"
+    },
+    {
+      "quest_id": "0:27",
+      "chapter": "tier-0-stone-age",
+      "title": "Finally, Some Powerful Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "FinallySomePower-AAAAAAAAAAAAAAAAAAAAGw==.json"
+    },
+    {
+      "quest_id": "0:28",
+      "chapter": "tier-0-stone-age",
+      "title": "Copper Sky, Iron Curtain",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CopperSkyIronCur-AAAAAAAAAAAAAAAAAAAAHA==.json"
+    },
+    {
+      "quest_id": "0:718",
+      "chapter": "tier-0-stone-age",
+      "title": "Moron's Manual to Fecund Farms",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "MoronsManualtoFe-AAAAAAAAAAAAAAAAAAACzg==.json"
+    },
+    {
+      "quest_id": "0:1926",
+      "chapter": "tier-0-stone-age",
+      "title": "A Quicker Way to Get Around",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "AQuickerWaytoGet-AAAAAAAAAAAAAAAAAAAHhg==.json"
+    },
+    {
+      "quest_id": "0:488",
+      "chapter": "tier-0-stone-age",
+      "title": "You Need Them All!",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YouNeedThemAll-AAAAAAAAAAAAAAAAAAAB6A==.json"
+    },
+    {
+      "quest_id": "-2157870659866113684:-8191827436027574183",
+      "chapter": "tier-0-stone-age",
+      "title": "Do You Really Need Them All?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "DoYouReallyNeedT-4g20EVdxSWyOUMhZXkcIWQ==.json"
+    },
+    {
+      "quest_id": "0:491",
+      "chapter": "tier-0-stone-age",
+      "title": "Sleeping Outside",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "SleepingOutside-AAAAAAAAAAAAAAAAAAAB6w==.json"
+    },
+    {
+      "quest_id": "0:2876",
+      "chapter": "tier-0-stone-age",
+      "title": "Loot Games",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "LootGames-AAAAAAAAAAAAAAAAAAALPA==.json"
+    },
+    {
+      "quest_id": "0:1476",
+      "chapter": "tier-0-stone-age",
+      "title": "All the Finest Cuts of Meat",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "AlltheFinestCuts-AAAAAAAAAAAAAAAAAAAFxA==.json"
+    },
+    {
+      "quest_id": "0:492",
+      "chapter": "tier-0-stone-age",
+      "title": "Sheep Hairdresser",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "SheepHairdresser-AAAAAAAAAAAAAAAAAAAB7A==.json"
+    },
+    {
+      "quest_id": "0:2402",
+      "chapter": "tier-0-stone-age",
+      "title": "Got a Flat Tire?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "GotaFlatTire-AAAAAAAAAAAAAAAAAAAJYg==.json"
+    },
+    {
+      "quest_id": "7905693324829737052:-6697627242772387263",
+      "chapter": "tier-0-stone-age",
+      "title": "Sustainable Paper",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "SustainablePaper-bbaqMVmnQFyjDT-CHJKqQQ==.json"
+    },
+    {
+      "quest_id": "0:485",
+      "chapter": "tier-0-stone-age",
+      "title": "You Need MOOOOOOORE Wood",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "YouNeedMOOOOOOOR-AAAAAAAAAAAAAAAAAAAB5Q==.json"
+    },
+    {
+      "quest_id": "0:29",
+      "chapter": "tier-0-stone-age",
+      "title": "Another Fuel Source",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "AnotherFuelSourc-AAAAAAAAAAAAAAAAAAAAHQ==.json"
+    },
+    {
+      "quest_id": "0:825",
+      "chapter": "tier-0-stone-age",
+      "title": "Copper Ore",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "CopperOre-AAAAAAAAAAAAAAAAAAADOQ==.json"
+    },
+    {
+      "quest_id": "0:480",
+      "chapter": "tier-0-stone-age",
+      "title": "Malachite",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "Malachite-AAAAAAAAAAAAAAAAAAAB4A==.json"
+    },
+    {
+      "quest_id": "0:826",
+      "chapter": "tier-0-stone-age",
+      "title": "Iron Ore",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114604.png",
+      "official_file": "IronOre-AAAAAAAAAAAAAAAAAAADOg==.json"
+    },
+    {
+      "quest_id": "0:1160",
+      "chapter": "tier-1-lv",
+      "title": "Empty Cells",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "EmptyCells-AAAAAAAAAAAAAAAAAAAEiA==.json"
+    },
+    {
+      "quest_id": "0:1519",
+      "chapter": "tier-1-lv",
+      "title": "Portable Tanks Too Small?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "PortableTanksToo-AAAAAAAAAAAAAAAAAAAF7w==.json"
+    },
+    {
+      "quest_id": "0:98",
+      "chapter": "tier-1-lv",
+      "title": "No More Filing",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "NoMoreFiling-AAAAAAAAAAAAAAAAAAAAYg==.json"
+    },
+    {
+      "quest_id": "0:105",
+      "chapter": "tier-1-lv",
+      "title": "Saving Metal With Bending",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SavingMetalWithB-AAAAAAAAAAAAAAAAAAAAaQ==.json"
+    },
+    {
+      "quest_id": "0:2047",
+      "chapter": "tier-1-lv",
+      "title": "Circuit Programming",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "CircuitProgrammi-AAAAAAAAAAAAAAAAAAAH_w==.json"
+    },
+    {
+      "quest_id": "0:103",
+      "chapter": "tier-1-lv",
+      "title": "Getting Ready for Tier 2, MV",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "GettingReadyforT-AAAAAAAAAAAAAAAAAAAAZw==.json"
+    },
+    {
+      "quest_id": "0:90",
+      "chapter": "tier-1-lv",
+      "title": "Damn You, Wire Cutter!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "DamnYouWireCutte-AAAAAAAAAAAAAAAAAAAAWg==.json"
+    },
+    {
+      "quest_id": "0:1094",
+      "chapter": "tier-1-lv",
+      "title": "Diamond Chests... Ooo, Shiny",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "DiamondChestsOoo-AAAAAAAAAAAAAAAAAAAERg==.json"
+    },
+    {
+      "quest_id": "0:587",
+      "chapter": "tier-1-lv",
+      "title": "Magnetize Your Rods",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "MagnetizeYourRod-AAAAAAAAAAAAAAAAAAACSw==.json"
+    },
+    {
+      "quest_id": "0:96",
+      "chapter": "tier-1-lv",
+      "title": "Saving Redstone",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SavingRedstone-AAAAAAAAAAAAAAAAAAAAYA==.json"
+    },
+    {
+      "quest_id": "0:102",
+      "chapter": "tier-1-lv",
+      "title": "Cutting Things Apart",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "CuttingThingsApa-AAAAAAAAAAAAAAAAAAAAZg==.json"
+    },
+    {
+      "quest_id": "0:1653",
+      "chapter": "tier-1-lv",
+      "title": "Akihabara",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Akihabara-AAAAAAAAAAAAAAAAAAAGdQ==.json"
+    },
+    {
+      "quest_id": "0:2983",
+      "chapter": "tier-1-lv",
+      "title": "Mica Ore",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "MicaOre-AAAAAAAAAAAAAAAAAAALpw==.json"
+    },
+    {
+      "quest_id": "0:1887",
+      "chapter": "tier-1-lv",
+      "title": "Electric Furnace",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ElectricFurnace-AAAAAAAAAAAAAAAAAAAHXw==.json"
+    },
+    {
+      "quest_id": "0:542",
+      "chapter": "tier-1-lv",
+      "title": "Electrically Separating Dusts",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ElectricallySepa-AAAAAAAAAAAAAAAAAAACHg==.json"
+    },
+    {
+      "quest_id": "0:836",
+      "chapter": "tier-1-lv",
+      "title": "Gallium Arsenide Crystal",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "GalliumArsenideC-AAAAAAAAAAAAAAAAAAADRA==.json"
+    },
+    {
+      "quest_id": "0:114",
+      "chapter": "tier-1-lv",
+      "title": "Basic Transport: Items",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicTransportIt-AAAAAAAAAAAAAAAAAAAAcg==.json"
+    },
+    {
+      "quest_id": "0:617",
+      "chapter": "tier-1-lv",
+      "title": "Fluid Canner",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "FluidCanner-AAAAAAAAAAAAAAAAAAACaQ==.json"
+    },
+    {
+      "quest_id": "0:554",
+      "chapter": "tier-1-lv",
+      "title": "Hey DJ, Mix it!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HeyDJMixit-AAAAAAAAAAAAAAAAAAACKg==.json"
+    },
+    {
+      "quest_id": "0:115",
+      "chapter": "tier-1-lv",
+      "title": "Basic Transport: Fluids",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicTransportFl-AAAAAAAAAAAAAAAAAAAAcw==.json"
+    },
+    {
+      "quest_id": "0:113",
+      "chapter": "tier-1-lv",
+      "title": "Basic Transport Pipe",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicTransportPi-AAAAAAAAAAAAAAAAAAAAcQ==.json"
+    },
+    {
+      "quest_id": "0:88",
+      "chapter": "tier-1-lv",
+      "title": "Welcome to Tier 1, LV",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "WelcometoTier1LV-AAAAAAAAAAAAAAAAAAAAWA==.json"
+    },
+    {
+      "quest_id": "0:1166",
+      "chapter": "tier-1-lv",
+      "title": "Quartzite Veins",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "QuartziteVeins-AAAAAAAAAAAAAAAAAAAEjg==.json"
+    },
+    {
+      "quest_id": "0:91",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #1",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAWw==.json"
+    },
+    {
+      "quest_id": "0:540",
+      "chapter": "tier-1-lv",
+      "title": "A Truly Sharp Saw Blade",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ATrulySharpSawBl-AAAAAAAAAAAAAAAAAAACHA==.json"
+    },
+    {
+      "quest_id": "0:541",
+      "chapter": "tier-1-lv",
+      "title": "A New Alloy - Cobalt Brass",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ANewAlloyCobaltB-AAAAAAAAAAAAAAAAAAACHQ==.json"
+    },
+    {
+      "quest_id": "0:716",
+      "chapter": "tier-1-lv",
+      "title": "Process Some Certus Quartz",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ProcessSomeCertu-AAAAAAAAAAAAAAAAAAACzA==.json"
+    },
+    {
+      "quest_id": "0:930",
+      "chapter": "tier-1-lv",
+      "title": "Auto Mining",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "AutoMining-AAAAAAAAAAAAAAAAAAADog==.json"
+    },
+    {
+      "quest_id": "0:1279",
+      "chapter": "tier-1-lv",
+      "title": "Firestone Ore/Dust",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "FirestoneOreDust-AAAAAAAAAAAAAAAAAAAE_w==.json"
+    },
+    {
+      "quest_id": "0:598",
+      "chapter": "tier-1-lv",
+      "title": "Antimony",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Antimony-AAAAAAAAAAAAAAAAAAACVg==.json"
+    },
+    {
+      "quest_id": "0:597",
+      "chapter": "tier-1-lv",
+      "title": "Tetrahedrite, Stibnite and Copper",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "TetrahedriteStib-AAAAAAAAAAAAAAAAAAACVQ==.json"
+    },
+    {
+      "quest_id": "0:2858",
+      "chapter": "tier-1-lv",
+      "title": "Machine Interface Fluid I/O",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "MachineInterface-AAAAAAAAAAAAAAAAAAALKg==.json"
+    },
+    {
+      "quest_id": "0:2143",
+      "chapter": "tier-1-lv",
+      "title": "Choices, Choices",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ChoicesChoices-AAAAAAAAAAAAAAAAAAAIXw==.json"
+    },
+    {
+      "quest_id": "0:529",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #5",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAACEQ==.json"
+    },
+    {
+      "quest_id": "0:530",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #6",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAACEg==.json"
+    },
+    {
+      "quest_id": "0:609",
+      "chapter": "tier-1-lv",
+      "title": "Battery Alloy",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BatteryAlloy-AAAAAAAAAAAAAAAAAAACYQ==.json"
+    },
+    {
+      "quest_id": "0:608",
+      "chapter": "tier-1-lv",
+      "title": "A Lead About Lead That Leads to Lead",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ALeadAboutLeadTh-AAAAAAAAAAAAAAAAAAACYA==.json"
+    },
+    {
+      "quest_id": "0:1084",
+      "chapter": "tier-1-lv",
+      "title": "Lubricant",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Lubricant-AAAAAAAAAAAAAAAAAAAEPA==.json"
+    },
+    {
+      "quest_id": "0:533",
+      "chapter": "tier-1-lv",
+      "title": "Hydrogen, Methane or Some Farts... (Natural gas)",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HydrogenMethaneo-AAAAAAAAAAAAAAAAAAACFQ==.json"
+    },
+    {
+      "quest_id": "0:869",
+      "chapter": "tier-1-lv",
+      "title": "Sifting Machine",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SiftingMachine-AAAAAAAAAAAAAAAAAAADZQ==.json"
+    },
+    {
+      "quest_id": "0:1167",
+      "chapter": "tier-1-lv",
+      "title": "Lithium",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Lithium-AAAAAAAAAAAAAAAAAAAEjw==.json"
+    },
+    {
+      "quest_id": "0:622",
+      "chapter": "tier-1-lv",
+      "title": "How to Get Sodium and Lithium",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HowtoGetSodiuman-AAAAAAAAAAAAAAAAAAACbg==.json"
+    },
+    {
+      "quest_id": "0:100",
+      "chapter": "tier-1-lv",
+      "title": "Press All the Things",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "PressAlltheThing-AAAAAAAAAAAAAAAAAAAAZA==.json"
+    },
+    {
+      "quest_id": "0:1792",
+      "chapter": "tier-1-lv",
+      "title": "I Guess it's an Inkjet?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "IGuessitsanInkje-AAAAAAAAAAAAAAAAAAAHAA==.json"
+    },
+    {
+      "quest_id": "0:547",
+      "chapter": "tier-1-lv",
+      "title": "Your Oil is Too Crude? Refine it!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YourOilisTooCrud-AAAAAAAAAAAAAAAAAAACIw==.json"
+    },
+    {
+      "quest_id": "0:93",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #2",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXQ==.json"
+    },
+    {
+      "quest_id": "0:95",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #3",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXw==.json"
+    },
+    {
+      "quest_id": "0:92",
+      "chapter": "tier-1-lv",
+      "title": "You're Gonna Hate This #4",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXA==.json"
+    },
+    {
+      "quest_id": "0:795",
+      "chapter": "tier-1-lv",
+      "title": "Basic Circuit Assembler",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicCircuitAsse-AAAAAAAAAAAAAAAAAAADGw==.json"
+    },
+    {
+      "quest_id": "0:101",
+      "chapter": "tier-1-lv",
+      "title": "Mjolnir!!!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Mjolnir-AAAAAAAAAAAAAAAAAAAAZQ==.json"
+    },
+    {
+      "quest_id": "0:531",
+      "chapter": "tier-1-lv",
+      "title": "Scanning Bees, Crops and Moooooore!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ScanningBeesCrop-AAAAAAAAAAAAAAAAAAACEw==.json"
+    },
+    {
+      "quest_id": "0:767",
+      "chapter": "tier-1-lv",
+      "title": "Analyzing the Soil",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "AnalyzingtheSoil-AAAAAAAAAAAAAAAAAAAC_w==.json"
+    },
+    {
+      "quest_id": "0:544",
+      "chapter": "tier-1-lv",
+      "title": "Compact? Or is it?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "CompactOrisit-AAAAAAAAAAAAAAAAAAACIA==.json"
+    },
+    {
+      "quest_id": "0:2986",
+      "chapter": "tier-1-lv",
+      "title": "Here's Some Oil",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HeresSomeOil-AAAAAAAAAAAAAAAAAAALqg==.json"
+    },
+    {
+      "quest_id": "0:94",
+      "chapter": "tier-1-lv",
+      "title": "Electric Macerator",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ElectricMacerato-AAAAAAAAAAAAAAAAAAAAXg==.json"
+    },
+    {
+      "quest_id": "0:624",
+      "chapter": "tier-1-lv",
+      "title": "Basic Canner",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicCanner-AAAAAAAAAAAAAAAAAAACcA==.json"
+    },
+    {
+      "quest_id": "0:642",
+      "chapter": "tier-1-lv",
+      "title": "Sulfuric Gas",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SulfuricGas-AAAAAAAAAAAAAAAAAAACgg==.json"
+    },
+    {
+      "quest_id": "0:639",
+      "chapter": "tier-1-lv",
+      "title": "Sulfuric Naphtha",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SulfuricNaphtha-AAAAAAAAAAAAAAAAAAACfw==.json"
+    },
+    {
+      "quest_id": "0:551",
+      "chapter": "tier-1-lv",
+      "title": "Heavy Sulfuric Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HeavySulfuricFue-AAAAAAAAAAAAAAAAAAACJw==.json"
+    },
+    {
+      "quest_id": "0:548",
+      "chapter": "tier-1-lv",
+      "title": "Light Sulfuric Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "LightSulfuricFue-AAAAAAAAAAAAAAAAAAACJA==.json"
+    },
+    {
+      "quest_id": "0:538",
+      "chapter": "tier-1-lv",
+      "title": "Basic Ore Washer",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json"
+    },
+    {
+      "quest_id": "0:771",
+      "chapter": "tier-1-lv",
+      "title": "Dust to Crystals",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "DusttoCrystals-AAAAAAAAAAAAAAAAAAADAw==.json"
+    },
+    {
+      "quest_id": "0:747",
+      "chapter": "tier-1-lv",
+      "title": "Diodes",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Diodes-AAAAAAAAAAAAAAAAAAAC6w==.json"
+    },
+    {
+      "quest_id": "0:646",
+      "chapter": "tier-1-lv",
+      "title": "Electrotine Battery",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ElectrotineBatte-AAAAAAAAAAAAAAAAAAAChg==.json"
+    },
+    {
+      "quest_id": "0:644",
+      "chapter": "tier-1-lv",
+      "title": "Methane",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Methane-AAAAAAAAAAAAAAAAAAAChA==.json"
+    },
+    {
+      "quest_id": "0:643",
+      "chapter": "tier-1-lv",
+      "title": "Refinery Gas",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "RefineryGas-AAAAAAAAAAAAAAAAAAACgw==.json"
+    },
+    {
+      "quest_id": "0:641",
+      "chapter": "tier-1-lv",
+      "title": "Naphtha",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Naphtha-AAAAAAAAAAAAAAAAAAACgQ==.json"
+    },
+    {
+      "quest_id": "0:552",
+      "chapter": "tier-1-lv",
+      "title": "Heavy Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HeavyFuel-AAAAAAAAAAAAAAAAAAACKA==.json"
+    },
+    {
+      "quest_id": "0:549",
+      "chapter": "tier-1-lv",
+      "title": "Light Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "LightFuel-AAAAAAAAAAAAAAAAAAACJQ==.json"
+    },
+    {
+      "quest_id": "0:663",
+      "chapter": "tier-1-lv",
+      "title": "Faster Steel Production",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "FasterSteelProdu-AAAAAAAAAAAAAAAAAAAClw==.json"
+    },
+    {
+      "quest_id": "0:118",
+      "chapter": "tier-1-lv",
+      "title": "Basic Monster Prevention",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicMonsterPrev-AAAAAAAAAAAAAAAAAAAAdg==.json"
+    },
+    {
+      "quest_id": "0:117",
+      "chapter": "tier-1-lv",
+      "title": "Gotta Catch 'em All",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "GottaCatchemAll-AAAAAAAAAAAAAAAAAAAAdQ==.json"
+    },
+    {
+      "quest_id": "0:662",
+      "chapter": "tier-1-lv",
+      "title": "Basic Arc Furnace",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json"
+    },
+    {
+      "quest_id": "0:543",
+      "chapter": "tier-1-lv",
+      "title": "C9H8O4...NaCl...H2O...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "C9H8O4NaClH2O-AAAAAAAAAAAAAAAAAAACHw==.json"
+    },
+    {
+      "quest_id": "0:1155",
+      "chapter": "tier-1-lv",
+      "title": "Basic Fluid Solidifier",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BasicFluidSolidi-AAAAAAAAAAAAAAAAAAAEgw==.json"
+    },
+    {
+      "quest_id": "0:579",
+      "chapter": "tier-1-lv",
+      "title": "Molten Redstone?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "MoltenRedstone-AAAAAAAAAAAAAAAAAAACQw==.json"
+    },
+    {
+      "quest_id": "0:97",
+      "chapter": "tier-1-lv",
+      "title": "Avengers, Assemble!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "AvengersAssemble-AAAAAAAAAAAAAAAAAAAAYQ==.json"
+    },
+    {
+      "quest_id": "0:550",
+      "chapter": "tier-1-lv",
+      "title": "H for Hydrogen... the Rest of the Alphabet is Too Complicated...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HforHydrogentheR-AAAAAAAAAAAAAAAAAAACJg==.json"
+    },
+    {
+      "quest_id": "0:748",
+      "chapter": "tier-1-lv",
+      "title": "Empty Circuit Board",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "EmptyCircuitBoar-AAAAAAAAAAAAAAAAAAAC7A==.json"
+    },
+    {
+      "quest_id": "0:726",
+      "chapter": "tier-1-lv",
+      "title": "Chemical Rubber Production",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json"
+    },
+    {
+      "quest_id": "0:1791",
+      "chapter": "tier-1-lv",
+      "title": "Oilsand, or How You Get Heavy Oil",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "OilsandorHowYouG-AAAAAAAAAAAAAAAAAAAG_w==.json"
+    },
+    {
+      "quest_id": "0:1510",
+      "chapter": "tier-1-lv",
+      "title": "Biomes Everywhere, But Not the One You Want?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BiomesEverywhere-AAAAAAAAAAAAAAAAAAAF5g==.json"
+    },
+    {
+      "quest_id": "0:1540",
+      "chapter": "tier-1-lv",
+      "title": "Magnesium Source",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "MagnesiumSource-AAAAAAAAAAAAAAAAAAAGBA==.json"
+    },
+    {
+      "quest_id": "0:1149",
+      "chapter": "tier-1-lv",
+      "title": "A New Alloy - Magnalium",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ANewAlloyMagnali-AAAAAAAAAAAAAAAAAAAEfQ==.json"
+    },
+    {
+      "quest_id": "0:673",
+      "chapter": "tier-1-lv",
+      "title": "LV Extruder",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "LVExtruder-AAAAAAAAAAAAAAAAAAACoQ==.json"
+    },
+    {
+      "quest_id": "0:555",
+      "chapter": "tier-1-lv",
+      "title": "N Like Nitrogen... Hide, the Alphabet Strikes Again!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "NLikeNitrogenHid-AAAAAAAAAAAAAAAAAAACKw==.json"
+    },
+    {
+      "quest_id": "0:539",
+      "chapter": "tier-1-lv",
+      "title": "Round and Round and Round...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "RoundandRoundand-AAAAAAAAAAAAAAAAAAACGw==.json"
+    },
+    {
+      "quest_id": "0:745",
+      "chapter": "tier-1-lv",
+      "title": "Glue",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Glue-AAAAAAAAAAAAAAAAAAAC6Q==.json"
+    },
+    {
+      "quest_id": "0:104",
+      "chapter": "tier-1-lv",
+      "title": "Your Magic Progression",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "YourMagicProgres-AAAAAAAAAAAAAAAAAAAAaA==.json"
+    },
+    {
+      "quest_id": "0:1796",
+      "chapter": "tier-1-lv",
+      "title": "Better Gallium and Arsenic Sources",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "BetterGalliumand-AAAAAAAAAAAAAAAAAAAHBA==.json"
+    },
+    {
+      "quest_id": "0:599",
+      "chapter": "tier-1-lv",
+      "title": "Thermal Centrifuge",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ThermalCentrifug-AAAAAAAAAAAAAAAAAAACVw==.json"
+    },
+    {
+      "quest_id": "0:616",
+      "chapter": "tier-1-lv",
+      "title": "Mercury",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Mercury-AAAAAAAAAAAAAAAAAAACaA==.json"
+    },
+    {
+      "quest_id": "0:618",
+      "chapter": "tier-1-lv",
+      "title": "Sulfuric Acid",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "SulfuricAcid-AAAAAAAAAAAAAAAAAAACag==.json"
+    },
+    {
+      "quest_id": "-4801101343377634008:-8315505785454163878",
+      "chapter": "tier-1-lv",
+      "title": "Precision Laser Engraver",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "PrecisionLaserEn-vV8Pw_lTTSiMmWOLqkyIWg==.json"
+    },
+    {
+      "quest_id": "0:1499",
+      "chapter": "tier-1-lv",
+      "title": "Chemical Bath",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ChemicalBath-AAAAAAAAAAAAAAAAAAAF2w==.json"
+    },
+    {
+      "quest_id": "0:116",
+      "chapter": "tier-1-lv",
+      "title": "Alloy Smelter",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "AlloySmelter-AAAAAAAAAAAAAAAAAAAAdA==.json"
+    },
+    {
+      "quest_id": "0:532",
+      "chapter": "tier-1-lv",
+      "title": "Exploding Fluids For Power",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ExplodingFluidsF-AAAAAAAAAAAAAAAAAAACFA==.json"
+    },
+    {
+      "quest_id": "0:1090",
+      "chapter": "tier-1-lv",
+      "title": "Time to Dry Out the Nether",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "TimetoDryOuttheN-AAAAAAAAAAAAAAAAAAAEQg==.json"
+    },
+    {
+      "quest_id": "0:546",
+      "chapter": "tier-1-lv",
+      "title": "Hello Baron, How's Your Black Gold Today?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HelloBaronHowsYo-AAAAAAAAAAAAAAAAAAACIg==.json"
+    },
+    {
+      "quest_id": "0:1168",
+      "chapter": "tier-1-lv",
+      "title": "Sodium",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Sodium-AAAAAAAAAAAAAAAAAAAEkA==.json"
+    },
+    {
+      "quest_id": "0:621",
+      "chapter": "tier-1-lv",
+      "title": "How to Get Sodium",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "HowtoGetSodium-AAAAAAAAAAAAAAAAAAACbQ==.json"
+    },
+    {
+      "quest_id": "0:623",
+      "chapter": "tier-1-lv",
+      "title": "Cadmium",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "Cadmium-AAAAAAAAAAAAAAAAAAACbw==.json"
+    },
+    {
+      "quest_id": "0:717",
+      "chapter": "tier-1-lv",
+      "title": "Good Circuits",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "GoodCircuits-AAAAAAAAAAAAAAAAAAACzQ==.json"
+    },
+    {
+      "quest_id": "0:891",
+      "chapter": "tier-1-lv",
+      "title": "GT Tanks, the LV Version",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "GTTankstheLVVers-AAAAAAAAAAAAAAAAAAADew==.json"
+    },
+    {
+      "quest_id": "0:1131",
+      "chapter": "tier-1-lv",
+      "title": "Ardite and Cobalt",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "ArditeandCobalt-AAAAAAAAAAAAAAAAAAAEaw==.json"
+    },
+    {
+      "quest_id": "0:1865",
+      "chapter": "tier-1-lv",
+      "title": "Enderman Smelterman",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "EndermanSmelterm-AAAAAAAAAAAAAAAAAAAHSQ==.json"
+    },
+    {
+      "quest_id": "0:1911",
+      "chapter": "tier-1-lv",
+      "title": "Craftsman Used to Mean Quality",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114624.png",
+      "official_file": "CraftsmanUsedtoM-AAAAAAAAAAAAAAAAAAAHdw==.json"
+    },
+    {
+      "quest_id": "0:140",
+      "chapter": "tier-2-mv",
+      "title": "Dark Steel Tools",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "DarkSteelTools-AAAAAAAAAAAAAAAAAAAAjA==.json"
+    },
+    {
+      "quest_id": "0:137",
+      "chapter": "tier-2-mv",
+      "title": "Making Things Pretty",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MakingThingsPret-AAAAAAAAAAAAAAAAAAAAiQ==.json"
+    },
+    {
+      "quest_id": "0:1518",
+      "chapter": "tier-2-mv",
+      "title": "All the Crops You Could Want",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AlltheCropsYouCo-AAAAAAAAAAAAAAAAAAAF7g==.json"
+    },
+    {
+      "quest_id": "0:1093",
+      "chapter": "tier-2-mv",
+      "title": "Did You Run Low On Gold or Redstone?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "DidYouRunLowOnGo-AAAAAAAAAAAAAAAAAAAERQ==.json"
+    },
+    {
+      "quest_id": "0:1322",
+      "chapter": "tier-2-mv",
+      "title": "Advanced Centrifuge",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AdvancedCentrifu-AAAAAAAAAAAAAAAAAAAFKg==.json"
+    },
+    {
+      "quest_id": "0:1148",
+      "chapter": "tier-2-mv",
+      "title": "Tier 2 (MV)",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Tier2MV-AAAAAAAAAAAAAAAAAAAEfA==.json"
+    },
+    {
+      "quest_id": "0:1867",
+      "chapter": "tier-2-mv",
+      "title": "MV Motor",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVMotor-AAAAAAAAAAAAAAAAAAAHSw==.json"
+    },
+    {
+      "quest_id": "0:1835",
+      "chapter": "tier-2-mv",
+      "title": "Tantalum Ore",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "TantalumOre-AAAAAAAAAAAAAAAAAAAHKw==.json"
+    },
+    {
+      "quest_id": "0:131",
+      "chapter": "tier-2-mv",
+      "title": "Simple RF power: Solid",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SimpleRFpowerSol-AAAAAAAAAAAAAAAAAAAAgw==.json"
+    },
+    {
+      "quest_id": "0:143",
+      "chapter": "tier-2-mv",
+      "title": "Smelting All-Joy",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SmeltingAllJoy-AAAAAAAAAAAAAAAAAAAAjw==.json"
+    },
+    {
+      "quest_id": "0:142",
+      "chapter": "tier-2-mv",
+      "title": "Brewing Liquids",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "BrewingLiquids-AAAAAAAAAAAAAAAAAAAAjg==.json"
+    },
+    {
+      "quest_id": "0:126",
+      "chapter": "tier-2-mv",
+      "title": "Electrolyzing All the Things",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ElectrolyzingAll-AAAAAAAAAAAAAAAAAAAAfg==.json"
+    },
+    {
+      "quest_id": "0:1744",
+      "chapter": "tier-2-mv",
+      "title": "Chemical Lesson, Part Two",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ChemicalLessonPa-AAAAAAAAAAAAAAAAAAAG0A==.json"
+    },
+    {
+      "quest_id": "0:895",
+      "chapter": "tier-2-mv",
+      "title": "You're Gonna Hate This in MV Too #1",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAADfw==.json"
+    },
+    {
+      "quest_id": "0:896",
+      "chapter": "tier-2-mv",
+      "title": "You're Gonna Hate This in MV Too #3",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAADgA==.json"
+    },
+    {
+      "quest_id": "0:1081",
+      "chapter": "tier-2-mv",
+      "title": "MV Bending",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVBending-AAAAAAAAAAAAAAAAAAAEOQ==.json"
+    },
+    {
+      "quest_id": "0:1180",
+      "chapter": "tier-2-mv",
+      "title": "Passive Chunkloading",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "PassiveChunkload-AAAAAAAAAAAAAAAAAAAEnA==.json"
+    },
+    {
+      "quest_id": "0:2014",
+      "chapter": "tier-2-mv",
+      "title": "All Those Chunks, All in a Row",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AllThoseChunksAl-AAAAAAAAAAAAAAAAAAAH3g==.json"
+    },
+    {
+      "quest_id": "0:760",
+      "chapter": "tier-2-mv",
+      "title": "Clay Electrolyzing",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ClayElectrolyzin-AAAAAAAAAAAAAAAAAAAC-A==.json"
+    },
+    {
+      "quest_id": "0:1736",
+      "chapter": "tier-2-mv",
+      "title": "Pipes, Pipes Everywhere",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "PipesPipesEveryw-AAAAAAAAAAAAAAAAAAAGyA==.json"
+    },
+    {
+      "quest_id": "0:3211",
+      "chapter": "tier-2-mv",
+      "title": "Raw Silicon Dust",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "RawSiliconDust-AAAAAAAAAAAAAAAAAAAMiw==.json"
+    },
+    {
+      "quest_id": "0:846",
+      "chapter": "tier-2-mv",
+      "title": "O like Oxygen",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "OlikeOxygen-AAAAAAAAAAAAAAAAAAADTg==.json"
+    },
+    {
+      "quest_id": "0:847",
+      "chapter": "tier-2-mv",
+      "title": "Ethylene",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Ethylene-AAAAAAAAAAAAAAAAAAADTw==.json"
+    },
+    {
+      "quest_id": "0:951",
+      "chapter": "tier-2-mv",
+      "title": "Fluid Solidifier",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "FluidSolidifier-AAAAAAAAAAAAAAAAAAADtw==.json"
+    },
+    {
+      "quest_id": "0:897",
+      "chapter": "tier-2-mv",
+      "title": "You're Gonna Hate This in MV Too #4",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAADgQ==.json"
+    },
+    {
+      "quest_id": "0:740",
+      "chapter": "tier-2-mv",
+      "title": "Extrude All the Things",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ExtrudeAlltheThi-AAAAAAAAAAAAAAAAAAAC5A==.json"
+    },
+    {
+      "quest_id": "0:934",
+      "chapter": "tier-2-mv",
+      "title": "Power of the Sun ULV",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "PoweroftheSunULV-AAAAAAAAAAAAAAAAAAADpg==.json"
+    },
+    {
+      "quest_id": "0:1910",
+      "chapter": "tier-2-mv",
+      "title": "Better Tools",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "BetterTools-AAAAAAAAAAAAAAAAAAAHdg==.json"
+    },
+    {
+      "quest_id": "0:553",
+      "chapter": "tier-2-mv",
+      "title": "Diesel Fuel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "DieselFuel-AAAAAAAAAAAAAAAAAAACKQ==.json"
+    },
+    {
+      "quest_id": "0:3212",
+      "chapter": "tier-2-mv",
+      "title": "Silicon Tetrachloride",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SiliconTetrachlo-AAAAAAAAAAAAAAAAAAAMjA==.json"
+    },
+    {
+      "quest_id": "0:1549",
+      "chapter": "tier-2-mv",
+      "title": "Trichlorosilane",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Trichlorosilane-AAAAAAAAAAAAAAAAAAAGDQ==.json"
+    },
+    {
+      "quest_id": "0:1614",
+      "chapter": "tier-2-mv",
+      "title": "Chemical Dehydrator",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ChemicalDehydrat-AAAAAAAAAAAAAAAAAAAGTg==.json"
+    },
+    {
+      "quest_id": "0:2110",
+      "chapter": "tier-2-mv",
+      "title": "Speeding Up Slow Machines",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SpeedingUpSlowMa-AAAAAAAAAAAAAAAAAAAIPg==.json"
+    },
+    {
+      "quest_id": "0:782",
+      "chapter": "tier-2-mv",
+      "title": "Monocrystalline Silicon Boules",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MonocrystallineS-AAAAAAAAAAAAAAAAAAADDg==.json"
+    },
+    {
+      "quest_id": "0:759",
+      "chapter": "tier-2-mv",
+      "title": "Molten Polyethylene",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MoltenPolyethyle-AAAAAAAAAAAAAAAAAAAC9w==.json"
+    },
+    {
+      "quest_id": "0:750",
+      "chapter": "tier-2-mv",
+      "title": "Molten Plastic",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MoltenPlastic-AAAAAAAAAAAAAAAAAAAC7g==.json"
+    },
+    {
+      "quest_id": "0:1020",
+      "chapter": "tier-2-mv",
+      "title": "Iron (III) Chloride",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "IronIIIChloride-AAAAAAAAAAAAAAAAAAAD_A==.json"
+    },
+    {
+      "quest_id": "0:1598",
+      "chapter": "tier-2-mv",
+      "title": "Avengers, Assemble! 2",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AvengersAssemble-AAAAAAAAAAAAAAAAAAAGPg==.json"
+    },
+    {
+      "quest_id": "0:1404",
+      "chapter": "tier-2-mv",
+      "title": "MV Superconductors (128 EU/t)",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVSuperconductor-AAAAAAAAAAAAAAAAAAAFfA==.json"
+    },
+    {
+      "quest_id": "0:852",
+      "chapter": "tier-2-mv",
+      "title": "Acetic Acid",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AceticAcid-AAAAAAAAAAAAAAAAAAADVA==.json"
+    },
+    {
+      "quest_id": "0:773",
+      "chapter": "tier-2-mv",
+      "title": "Raw Carbon Mesh",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "RawCarbonMesh-AAAAAAAAAAAAAAAAAAADBQ==.json"
+    },
+    {
+      "quest_id": "0:2409",
+      "chapter": "tier-2-mv",
+      "title": "Even Rarer Earths",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "EvenRarerEarths-AAAAAAAAAAAAAAAAAAAJaQ==.json"
+    },
+    {
+      "quest_id": "0:1898",
+      "chapter": "tier-2-mv",
+      "title": "MV Advanced Steam Boiler",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVAdvancedSteamB-AAAAAAAAAAAAAAAAAAAHag==.json"
+    },
+    {
+      "quest_id": "0:2736",
+      "chapter": "tier-2-mv",
+      "title": "Hangover From All That Glue?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "HangoverFromAllT-AAAAAAAAAAAAAAAAAAAKsA==.json"
+    },
+    {
+      "quest_id": "0:837",
+      "chapter": "tier-2-mv",
+      "title": "ILC and RAM",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ILCandRAM-AAAAAAAAAAAAAAAAAAADRQ==.json"
+    },
+    {
+      "quest_id": "0:166",
+      "chapter": "tier-2-mv",
+      "title": "A New Alloy, Soularium",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ANewAlloySoulari-AAAAAAAAAAAAAAAAAAAApg==.json"
+    },
+    {
+      "quest_id": "0:1520",
+      "chapter": "tier-2-mv",
+      "title": "Large Aluminium Fluid Cells",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "LargeAluminiumFl-AAAAAAAAAAAAAAAAAAAF8A==.json"
+    },
+    {
+      "quest_id": "7775535122391976044:-7027883461503210574",
+      "chapter": "tier-2-mv",
+      "title": "Creative Flight With MagLev",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "CreativeFlightWi-a-g__0y_SGyed_E6IkIrsg==.json"
+    },
+    {
+      "quest_id": "0:1021",
+      "chapter": "tier-2-mv",
+      "title": "Sodium Persulfate",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SodiumPersulfate-AAAAAAAAAAAAAAAAAAAD_Q==.json"
+    },
+    {
+      "quest_id": "0:1015",
+      "chapter": "tier-2-mv",
+      "title": "Empty Plastic Board",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "EmptyPlasticBoar-AAAAAAAAAAAAAAAAAAAD9w==.json"
+    },
+    {
+      "quest_id": "0:3071",
+      "chapter": "tier-2-mv",
+      "title": "Cooling Kanthal",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "CoolingKanthal-AAAAAAAAAAAAAAAAAAAL_w==.json"
+    },
+    {
+      "quest_id": "0:3072",
+      "chapter": "tier-2-mv",
+      "title": "First Kanthal",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "FirstKanthal-AAAAAAAAAAAAAAAAAAAMAA==.json"
+    },
+    {
+      "quest_id": "0:794",
+      "chapter": "tier-2-mv",
+      "title": "Integrated Circuit",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "IntegratedCircui-AAAAAAAAAAAAAAAAAAADGg==.json"
+    },
+    {
+      "quest_id": "0:1227",
+      "chapter": "tier-2-mv",
+      "title": "HCL",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "HCL-AAAAAAAAAAAAAAAAAAAEyw==.json"
+    },
+    {
+      "quest_id": "0:3073",
+      "chapter": "tier-2-mv",
+      "title": "Coolant",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Coolant-AAAAAAAAAAAAAAAAAAAMAQ==.json"
+    },
+    {
+      "quest_id": "0:206",
+      "chapter": "tier-2-mv",
+      "title": "Venting the Heat",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "VentingtheHeat-AAAAAAAAAAAAAAAAAAAAzg==.json"
+    },
+    {
+      "quest_id": "0:1916",
+      "chapter": "tier-2-mv",
+      "title": "Where's That Handyman When You Need Him?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "WheresThatHandym-AAAAAAAAAAAAAAAAAAAHfA==.json"
+    },
+    {
+      "quest_id": "0:1482",
+      "chapter": "tier-2-mv",
+      "title": "Portable Prospecting Tool",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "PortableProspect-AAAAAAAAAAAAAAAAAAAFyg==.json"
+    },
+    {
+      "quest_id": "0:1527",
+      "chapter": "tier-2-mv",
+      "title": "Caging a Demon - Wither Killing Chamber",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "CagingaDemonWith-AAAAAAAAAAAAAAAAAAAF9w==.json"
+    },
+    {
+      "quest_id": "0:1478",
+      "chapter": "tier-2-mv",
+      "title": "You're Gonna Hate This in MV Too #5",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAFxg==.json"
+    },
+    {
+      "quest_id": "0:1477",
+      "chapter": "tier-2-mv",
+      "title": "You're Gonna Hate This in MV Too #6",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAFxQ==.json"
+    },
+    {
+      "quest_id": "-5211701503747732636:-8724598716517898559",
+      "chapter": "tier-2-mv",
+      "title": "Dark Steel Chest",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "DarksteelChest-t6xRGFm_S2SG6_-xNh8mwQ==.json"
+    },
+    {
+      "quest_id": "0:136",
+      "chapter": "tier-2-mv",
+      "title": "Improving Conduits",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "ImprovingConduit-AAAAAAAAAAAAAAAAAAAAiA==.json"
+    },
+    {
+      "quest_id": "0:2414",
+      "chapter": "tier-2-mv",
+      "title": "Too Many Items? Unpossible!",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "TooManyItemsUnpo-AAAAAAAAAAAAAAAAAAAJbg==.json"
+    },
+    {
+      "quest_id": "0:149",
+      "chapter": "tier-2-mv",
+      "title": "Fire Water",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "FireWater-AAAAAAAAAAAAAAAAAAAAlQ==.json"
+    },
+    {
+      "quest_id": "0:849",
+      "chapter": "tier-2-mv",
+      "title": "Sodium Hydroxide",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SodiumHydroxide-AAAAAAAAAAAAAAAAAAADUQ==.json"
+    },
+    {
+      "quest_id": "0:757",
+      "chapter": "tier-2-mv",
+      "title": "Ruby Electrolyzing",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "RubyElectrolyzin-AAAAAAAAAAAAAAAAAAAC9Q==.json"
+    },
+    {
+      "quest_id": "0:848",
+      "chapter": "tier-2-mv",
+      "title": "Seed Oil",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SeedOil-AAAAAAAAAAAAAAAAAAADUA==.json"
+    },
+    {
+      "quest_id": "0:1868",
+      "chapter": "tier-2-mv",
+      "title": "Ultra Low Power IC",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "UltraLowPowerIC-AAAAAAAAAAAAAAAAAAAHTA==.json"
+    },
+    {
+      "quest_id": "0:3213",
+      "chapter": "tier-2-mv",
+      "title": "Silicon Tetrachloride - continued",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SiliconTetrachlo-AAAAAAAAAAAAAAAAAAAMjQ==.json"
+    },
+    {
+      "quest_id": "0:1492",
+      "chapter": "tier-2-mv",
+      "title": "Trichlorosilane - continued",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Trichlorosilanec-AAAAAAAAAAAAAAAAAAAF1A==.json"
+    },
+    {
+      "quest_id": "0:778",
+      "chapter": "tier-2-mv",
+      "title": "Carbon Plates",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "CarbonPlates-AAAAAAAAAAAAAAAAAAADCg==.json"
+    },
+    {
+      "quest_id": "0:754",
+      "chapter": "tier-2-mv",
+      "title": "MV Energy Hatch",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVEnergyHatch-AAAAAAAAAAAAAAAAAAAC8g==.json"
+    },
+    {
+      "quest_id": "0:791",
+      "chapter": "tier-2-mv",
+      "title": "MV Precision Laser Engraver",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "MVPrecisionLaser-AAAAAAAAAAAAAAAAAAADFw==.json"
+    },
+    {
+      "quest_id": "0:1788",
+      "chapter": "tier-2-mv",
+      "title": "Silicon Solar Grade",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SiliconSolarGrad-AAAAAAAAAAAAAAAAAAAG_A==.json"
+    },
+    {
+      "quest_id": "0:838",
+      "chapter": "tier-2-mv",
+      "title": "Advanced Circuits",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "AdvancedCircuits-AAAAAAAAAAAAAAAAAAADRg==.json"
+    },
+    {
+      "quest_id": "0:746",
+      "chapter": "tier-2-mv",
+      "title": "Solar Grade Ingots",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SolarGradeIngots-AAAAAAAAAAAAAAAAAAAC6g==.json"
+    },
+    {
+      "quest_id": "0:1417",
+      "chapter": "tier-2-mv",
+      "title": "Cough Cough - Something Needs to Be Done About the Smell",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "CoughCoughSometh-AAAAAAAAAAAAAAAAAAAFiQ==.json"
+    },
+    {
+      "quest_id": "0:752",
+      "chapter": "tier-2-mv",
+      "title": "Silicon Plate",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "SiliconPlate-AAAAAAAAAAAAAAAAAAAC8A==.json"
+    },
+    {
+      "quest_id": "0:785",
+      "chapter": "tier-2-mv",
+      "title": "Transistor",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114634.png",
+      "official_file": "Transistor-AAAAAAAAAAAAAAAAAAADEQ==.json"
+    },
+    {
+      "quest_id": "0:441",
+      "chapter": "tier-0-5-steam",
+      "title": "Basic > Steam Lootbag Trade",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BasicSteamLootba-AAAAAAAAAAAAAAAAAAABuQ==.json"
+    },
+    {
+      "quest_id": "0:1205",
+      "chapter": "tier-0-5-steam",
+      "title": "Hoppers",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Hoppers-AAAAAAAAAAAAAAAAAAAEtQ==.json"
+    },
+    {
+      "quest_id": "0:47",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: High Speed Alloys",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeHighSpeed-AAAAAAAAAAAAAAAAAAAALw==.json"
+    },
+    {
+      "quest_id": "0:2346",
+      "chapter": "tier-0-5-steam",
+      "title": "Tame an Ocelot to Get a Friend",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "TameanOcelottoGe-AAAAAAAAAAAAAAAAAAAJKg==.json"
+    },
+    {
+      "quest_id": "0:1128",
+      "chapter": "tier-0-5-steam",
+      "title": "Lapis? Lucky!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "LapisLucky-AAAAAAAAAAAAAAAAAAAEaA==.json"
+    },
+    {
+      "quest_id": "0:868",
+      "chapter": "tier-0-5-steam",
+      "title": "Gypsum",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Gypsum-AAAAAAAAAAAAAAAAAAADZA==.json"
+    },
+    {
+      "quest_id": "0:44",
+      "chapter": "tier-0-5-steam",
+      "title": "Welcome to Tier 0.5, Steam!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WelcometoTier05S-AAAAAAAAAAAAAAAAAAAALA==.json"
+    },
+    {
+      "quest_id": "0:46",
+      "chapter": "tier-0-5-steam",
+      "title": "More Advanced Alloys",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MoreAdvancedAllo-AAAAAAAAAAAAAAAAAAAALg==.json"
+    },
+    {
+      "quest_id": "0:48",
+      "chapter": "tier-0-5-steam",
+      "title": "A Very Important Alloy",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "AVeryImportantAl-AAAAAAAAAAAAAAAAAAAAMA==.json"
+    },
+    {
+      "quest_id": "0:493",
+      "chapter": "tier-0-5-steam",
+      "title": "Wiremill v0.2 Alpha",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Wiremillv02Alpha-AAAAAAAAAAAAAAAAAAAB7Q==.json"
+    },
+    {
+      "quest_id": "0:63",
+      "chapter": "tier-0-5-steam",
+      "title": "Using Steam to Cook Things",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UsingSteamtoCook-AAAAAAAAAAAAAAAAAAAAPw==.json"
+    },
+    {
+      "quest_id": "0:58",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: Better Macerator",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeBetterMac-AAAAAAAAAAAAAAAAAAAAOg==.json"
+    },
+    {
+      "quest_id": "0:64",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: Better Furnace",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeBetterFur-AAAAAAAAAAAAAAAAAAAAQA==.json"
+    },
+    {
+      "quest_id": "0:1536",
+      "chapter": "tier-0-5-steam",
+      "title": "I Ain't Afraid of no Ghost!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "IAintAfraidofnoG-AAAAAAAAAAAAAAAAAAAGAA==.json"
+    },
+    {
+      "quest_id": "0:1126",
+      "chapter": "tier-0-5-steam",
+      "title": "Obzinite",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Obzinite-AAAAAAAAAAAAAAAAAAAEZg==.json"
+    },
+    {
+      "quest_id": "0:741",
+      "chapter": "tier-0-5-steam",
+      "title": "Tool Forge",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json"
+    },
+    {
+      "quest_id": "0:52",
+      "chapter": "tier-0-5-steam",
+      "title": "A Clear View",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "AClearView-AAAAAAAAAAAAAAAAAAAANA==.json"
+    },
+    {
+      "quest_id": "0:61",
+      "chapter": "tier-0-5-steam",
+      "title": "Another Use for Java, I Mean Lava",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "AnotherUseforJav-AAAAAAAAAAAAAAAAAAAAPQ==.json"
+    },
+    {
+      "quest_id": "0:1151",
+      "chapter": "tier-0-5-steam",
+      "title": "Wooden Crossbow",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WoodenCrossbow-AAAAAAAAAAAAAAAAAAAEfw==.json"
+    },
+    {
+      "quest_id": "0:1156",
+      "chapter": "tier-0-5-steam",
+      "title": "Wooden Bolts",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WoodenBolts-AAAAAAAAAAAAAAAAAAAEhA==.json"
+    },
+    {
+      "quest_id": "0:1130",
+      "chapter": "tier-0-5-steam",
+      "title": "Extra Modifier",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "ExtraModifier-AAAAAAAAAAAAAAAAAAAEag==.json"
+    },
+    {
+      "quest_id": "0:84",
+      "chapter": "tier-0-5-steam",
+      "title": "Where Can I Put All the Liquids?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WhereCanIPutAllt-AAAAAAAAAAAAAAAAAAAAVA==.json"
+    },
+    {
+      "quest_id": "0:60",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: Coal Boiler",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeCoalBoile-AAAAAAAAAAAAAAAAAAAAPA==.json"
+    },
+    {
+      "quest_id": "0:742",
+      "chapter": "tier-0-5-steam",
+      "title": "One Block Mining is so Old School",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "OneBlockMiningis-AAAAAAAAAAAAAAAAAAAC5g==.json"
+    },
+    {
+      "quest_id": "0:56",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: Forge Hammer",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeForgeHamm-AAAAAAAAAAAAAAAAAAAAOA==.json"
+    },
+    {
+      "quest_id": "9087388162321304731:-7763868120621886020",
+      "chapter": "tier-0-5-steam",
+      "title": "Silver Barrel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "SilverBarrel-fhzjYvdATJuUQTMUO1pVvA==.json"
+    },
+    {
+      "quest_id": "0:1507",
+      "chapter": "tier-0-5-steam",
+      "title": "Making a List, Checking it Twice",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MakingaListCheck-AAAAAAAAAAAAAAAAAAAF4w==.json"
+    },
+    {
+      "quest_id": "1940107204733586102:-7060842715059683845",
+      "chapter": "tier-0-5-steam",
+      "title": "Gold Barrel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "GoldBarrel-GuylOTxSSraeAtj16fZ9-w==.json"
+    },
+    {
+      "quest_id": "0:53",
+      "chapter": "tier-0-5-steam",
+      "title": "Hammer time v2",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Hammertimev2-AAAAAAAAAAAAAAAAAAAANQ==.json"
+    },
+    {
+      "quest_id": "0:694",
+      "chapter": "tier-0-5-steam",
+      "title": "One Anvil...",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "OneAnvil-AAAAAAAAAAAAAAAAAAACtg==.json"
+    },
+    {
+      "quest_id": "0:54",
+      "chapter": "tier-0-5-steam",
+      "title": "Compressing Stuff",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "CompressingStuff-AAAAAAAAAAAAAAAAAAAANg==.json"
+    },
+    {
+      "quest_id": "0:1915",
+      "chapter": "tier-0-5-steam",
+      "title": "Mud, Can Also be Used For Facials",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MudCanAlsobeUsed-AAAAAAAAAAAAAAAAAAAHew==.json"
+    },
+    {
+      "quest_id": "0:55",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: A Better Compressor",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeABetterCo-AAAAAAAAAAAAAAAAAAAANw==.json"
+    },
+    {
+      "quest_id": "0:51",
+      "chapter": "tier-0-5-steam",
+      "title": "Extracting Stuff",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "ExtractingStuff-AAAAAAAAAAAAAAAAAAAAMw==.json"
+    },
+    {
+      "quest_id": "6307540442977225447:-8598415503288479283",
+      "chapter": "tier-0-5-steam",
+      "title": "Steel Chest?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "SteelChest-V4jinTYRSueIrEqn90dRzQ==.json"
+    },
+    {
+      "quest_id": "0:57",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrade: Extractor",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradeExtractor-AAAAAAAAAAAAAAAAAAAAOQ==.json"
+    },
+    {
+      "quest_id": "0:558",
+      "chapter": "tier-0-5-steam",
+      "title": "How Can I Carry All These Items?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "HowCanICarryAllT-AAAAAAAAAAAAAAAAAAACLg==.json"
+    },
+    {
+      "quest_id": "0:586",
+      "chapter": "tier-0-5-steam",
+      "title": "Welcome to Forestry",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WelcometoForestr-AAAAAAAAAAAAAAAAAAACSg==.json"
+    },
+    {
+      "quest_id": "0:890",
+      "chapter": "tier-0-5-steam",
+      "title": "The GT Tank, ULV Version",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "TheGTTankULVVers-AAAAAAAAAAAAAAAAAAADeg==.json"
+    },
+    {
+      "quest_id": "-8913988738481632378:-8198041923981670459",
+      "chapter": "tier-0-5-steam",
+      "title": "Multiblock Revolution",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MultiblockRevolu-hEsmeH74S4aOOrROI1AHxQ==.json"
+    },
+    {
+      "quest_id": "0:65",
+      "chapter": "tier-0-5-steam",
+      "title": "Blastoff!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Blastoff-AAAAAAAAAAAAAAAAAAAAQQ==.json"
+    },
+    {
+      "quest_id": "0:478",
+      "chapter": "tier-0-5-steam",
+      "title": "Flint and Steel",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "FlintandSteel-AAAAAAAAAAAAAAAAAAAB3g==.json"
+    },
+    {
+      "quest_id": "0:479",
+      "chapter": "tier-0-5-steam",
+      "title": "THE NETHER",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "THENETHER-AAAAAAAAAAAAAAAAAAAB3w==.json"
+    },
+    {
+      "quest_id": "0:1741",
+      "chapter": "tier-0-5-steam",
+      "title": "Nice Nether Trees",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "NiceNetherTrees-AAAAAAAAAAAAAAAAAAAGzQ==.json"
+    },
+    {
+      "quest_id": "0:1908",
+      "chapter": "tier-0-5-steam",
+      "title": "Lucifer's Little Helper",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "LucifersLittleHe-AAAAAAAAAAAAAAAAAAAHdA==.json"
+    },
+    {
+      "quest_id": "0:1845",
+      "chapter": "tier-0-5-steam",
+      "title": "Flaming idiots",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "FlamingIdiots-AAAAAAAAAAAAAAAAAAAHNQ==.json"
+    },
+    {
+      "quest_id": "0:1157",
+      "chapter": "tier-0-5-steam",
+      "title": "Rubber Soft Mallet",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "RubberSoftMallet-AAAAAAAAAAAAAAAAAAAEhQ==.json"
+    },
+    {
+      "quest_id": "0:875",
+      "chapter": "tier-0-5-steam",
+      "title": "Slime Island Journey",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "SlimeIslandJourn-AAAAAAAAAAAAAAAAAAADaw==.json"
+    },
+    {
+      "quest_id": "0:2399",
+      "chapter": "tier-0-5-steam",
+      "title": "I Know His Name!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "IKnowHisName-AAAAAAAAAAAAAAAAAAAJXw==.json"
+    },
+    {
+      "quest_id": "0:1987",
+      "chapter": "tier-0-5-steam",
+      "title": "Upgrading Drawers",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "UpgradingDrawers-AAAAAAAAAAAAAAAAAAAHww==.json"
+    },
+    {
+      "quest_id": "0:1789",
+      "chapter": "tier-0-5-steam",
+      "title": "Factory Iron Door",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "FactoryIronDoor-AAAAAAAAAAAAAAAAAAAG_Q==.json"
+    },
+    {
+      "quest_id": "0:948",
+      "chapter": "tier-0-5-steam",
+      "title": "Better Than Iron",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BetterThanIron-AAAAAAAAAAAAAAAAAAADtA==.json"
+    },
+    {
+      "quest_id": "0:66",
+      "chapter": "tier-0-5-steam",
+      "title": "Time For Some Logic",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "TimeForSomeLogic-AAAAAAAAAAAAAAAAAAAAQg==.json"
+    },
+    {
+      "quest_id": "0:67",
+      "chapter": "tier-0-5-steam",
+      "title": "Wired, Weird?!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "WiredWeird-AAAAAAAAAAAAAAAAAAAAQw==.json"
+    },
+    {
+      "quest_id": "0:871",
+      "chapter": "tier-0-5-steam",
+      "title": "Molds, Molds, Molds",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MoldsMoldsMolds-AAAAAAAAAAAAAAAAAAADZw==.json"
+    },
+    {
+      "quest_id": "0:536",
+      "chapter": "tier-0-5-steam",
+      "title": "Rubber Sheets",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "RubberSheets-AAAAAAAAAAAAAAAAAAACGA==.json"
+    },
+    {
+      "quest_id": "0:942",
+      "chapter": "tier-0-5-steam",
+      "title": "It's a Dirty Job, and You're Going to Do It",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "ItsaDirtyJobandY-AAAAAAAAAAAAAAAAAAADrg==.json"
+    },
+    {
+      "quest_id": "0:2087",
+      "chapter": "tier-0-5-steam",
+      "title": "Key to Your Heart",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "KeytoYourHeart-AAAAAAAAAAAAAAAAAAAIJw==.json"
+    },
+    {
+      "quest_id": "0:2332",
+      "chapter": "tier-0-5-steam",
+      "title": "How to open your Iron Doors?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "HowtoopenyourIro-AAAAAAAAAAAAAAAAAAAJHA==.json"
+    },
+    {
+      "quest_id": "0:534",
+      "chapter": "tier-0-5-steam",
+      "title": "Pollution What....?",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "PollutionWhat-AAAAAAAAAAAAAAAAAAACFg==.json"
+    },
+    {
+      "quest_id": "0:1888",
+      "chapter": "tier-0-5-steam",
+      "title": "Repairing Your Hazmat Suit",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "RepairingYourHaz-AAAAAAAAAAAAAAAAAAAHYA==.json"
+    },
+    {
+      "quest_id": "0:834",
+      "chapter": "tier-0-5-steam",
+      "title": "Circuit Boards",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "CircuitBoards-AAAAAAAAAAAAAAAAAAADQg==.json"
+    },
+    {
+      "quest_id": "0:68",
+      "chapter": "tier-0-5-steam",
+      "title": "Your First Electronic Circuit",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "YourFirstElectro-AAAAAAAAAAAAAAAAAAAARA==.json"
+    },
+    {
+      "quest_id": "0:835",
+      "chapter": "tier-0-5-steam",
+      "title": "Resistor",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Resistor-AAAAAAAAAAAAAAAAAAADQw==.json"
+    },
+    {
+      "quest_id": "0:70",
+      "chapter": "tier-0-5-steam",
+      "title": "Steam-a-licious!",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Steamalicious-AAAAAAAAAAAAAAAAAAAARg==.json"
+    },
+    {
+      "quest_id": "0:72",
+      "chapter": "tier-0-5-steam",
+      "title": "Basic Crafting: Rotors",
+      "status": "completed_claimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BasicCraftingRot-AAAAAAAAAAAAAAAAAAAASA==.json"
+    },
+    {
+      "quest_id": "0:49",
+      "chapter": "tier-0-5-steam",
+      "title": "The Hell is That?",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "TheHellisThat-AAAAAAAAAAAAAAAAAAAAMQ==.json"
+    },
+    {
+      "quest_id": "9012220195932555052:-5816092802750880657",
+      "chapter": "tier-0-5-steam",
+      "title": "Better Make that Two!",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BetterMakethatTw-fRHWhPgpRyyvSRZpL1Pkbw==.json"
+    },
+    {
+      "quest_id": "0:1919",
+      "chapter": "tier-0-5-steam",
+      "title": "Too Much Junk??",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "TooMuchJunk-AAAAAAAAAAAAAAAAAAAHfw==.json"
+    },
+    {
+      "quest_id": "6838269211896792715:-5122202840608450070",
+      "chapter": "tier-0-5-steam",
+      "title": "The one book to rule them all",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "Theonebooktorule-XuZpnhWZRou46kensglZ6g==.json"
+    },
+    {
+      "quest_id": "0:625",
+      "chapter": "tier-0-5-steam",
+      "title": "Moving Your Tanks, Chests, and Barrels",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "MovingYourTanksC-AAAAAAAAAAAAAAAAAAACcQ==.json"
+    },
+    {
+      "quest_id": "0:705",
+      "chapter": "tier-0-5-steam",
+      "title": "Accelerated Plant Growth",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "AcceleratedPlant-AAAAAAAAAAAAAAAAAAACwQ==.json"
+    },
+    {
+      "quest_id": "0:1125",
+      "chapter": "tier-0-5-steam",
+      "title": "Barrel Upgrades Tier 2",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAAEZQ==.json"
+    },
+    {
+      "quest_id": "0:1132",
+      "chapter": "tier-0-5-steam",
+      "title": "Nether Quartz? Sharpness!",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "NetherQuartzShar-AAAAAAAAAAAAAAAAAAAEbA==.json"
+    },
+    {
+      "quest_id": "0:1092",
+      "chapter": "tier-0-5-steam",
+      "title": "New Source of Glowstone",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "NewSourceofGlows-AAAAAAAAAAAAAAAAAAAERA==.json"
+    },
+    {
+      "quest_id": "0:2910",
+      "chapter": "tier-0-5-steam",
+      "title": "Barrel Upgrades Tier 3",
+      "status": "completed_unclaimed",
+      "confidence": "high",
+      "evidence_file": "Screenshot 2026-09-10 114614.png",
+      "official_file": "BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALXg==.json"
+    }
+  ],
+  "observations": [
+    {
+      "observed_on": "2026-09-10",
+      "type": "player_report",
+      "summary": "In the player's quest-book screenshots, blue/cyan nodes are completed quests whose rewards have not yet been claimed; green nodes are completed quests with rewards claimed. Both colors prove quest completion."
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "summary": "The Tier 3 - HV screenshot was aligned with official GTNH 2.8.4 quest-line coordinates and definitions. Exactly 28 completed nodes were matched: 20 claimed and 8 unclaimed, agreeing with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114721.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.3333333333,
+        "scale_y": 1.3333333333,
+        "offset_x": 340,
+        "offset_y": 60
+      }
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "chapter_overview_batch",
+      "summary": "Six main quest-book chapter overviews were supplied and cross-referenced against the official GTNH 2.8.4 quest-line coordinates and task definitions. All 410 completed nodes are now stored individually.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114548.png",
+        "Screenshot 2026-09-10 114604.png",
+        "Screenshot 2026-09-10 114614.png",
+        "Screenshot 2026-09-10 114624.png",
+        "Screenshot 2026-09-10 114634.png",
+        "Screenshot 2026-09-10 114721.png"
+      ]
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "chapter": "and-so-it-begins",
+      "summary": "Matched 45 completed nodes: 40 claimed and 5 unclaimed; this agrees with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114548.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.5,
+        "scale_y": 1.5,
+        "offset_x": 543.0,
+        "offset_y": 170.0
+      }
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "chapter": "tier-0-stone-age",
+      "summary": "Matched 74 completed nodes: 59 claimed and 15 unclaimed; this agrees with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114604.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.5,
+        "scale_y": 1.5,
+        "offset_x": 285.0,
+        "offset_y": 95.0
+      }
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "chapter": "tier-1-lv",
+      "summary": "Matched 107 completed nodes: 88 claimed and 19 unclaimed; this agrees with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114624.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.0,
+        "scale_y": 1.0,
+        "offset_x": 112.0,
+        "offset_y": 98.0
+      }
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "chapter": "tier-2-mv",
+      "summary": "Matched 80 completed nodes: 56 claimed and 24 unclaimed; this agrees with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114634.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.0,
+        "scale_y": 1.0,
+        "offset_x": 252.0,
+        "offset_y": 108.0
+      }
+    },
+    {
+      "observed_on": "2026-09-10",
+      "type": "official_quest_map_match",
+      "chapter": "tier-0-5-steam",
+      "summary": "Matched 76 completed nodes: 66 claimed and 10 unclaimed; this agrees with the chapter counter.",
+      "evidence_files": [
+        "Screenshot 2026-09-10 114614.png"
+      ],
+      "official_commit": "7cc3067925d133e9bd4051675fff5ce7576317c2",
+      "viewport_transform": {
+        "scale_x": 1.0,
+        "scale_y": 1.0,
+        "offset_x": 434.0,
+        "offset_y": 143.0
+      }
+    }
+  ],
+  "last_updated": "2026-09-11"
+}
